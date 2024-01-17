@@ -5,16 +5,20 @@
 This paper creates four different election forecasting visualizations and then analyzes the effects each visualization can have on people's emotions, trust in forecasts, and political participation intention. Here are each of the visualizations they created: 
 
 ## A. Single Quantile Dotplot
+![alt text](https://raw.githubusercontent.com/aria-yan/cs573-reflections/main/week1/A.png)
 
 ## B. Dual Quantile Dotplots
+![alt text](https://raw.githubusercontent.com/aria-yan/cs573-reflections/main/week1/B.png)
 
 ## C. Dual Histogram Intervals
+![alt text](https://raw.githubusercontent.com/aria-yan/cs573-reflections/main/week1/C.png)
 
 ## D. Plinko Quantile Dotplot
+![alt text](https://raw.githubusercontent.com/aria-yan/cs573-reflections/main/week1/D.png)
 
 Here are the results of the study:
 
-![alt text](https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/2945/10373160/10309864/tvcg-yang-3327356-fig-1-source-large.gif)
+![alt text](https://raw.githubusercontent.com/aria-yan/cs573-reflections/main/week1/Results.png)
 
 While I found the study itself extremely interesting, I hated how the results were visualized. I was confused by certain aspects of the graph even after reading through the results. Most specifically, the numerical scale for visualization effects should be explaned, as I don't know if the scale is meant to symbolize intensity or the spectrum of the feeling being measured. 
 

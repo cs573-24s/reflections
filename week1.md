@@ -4,7 +4,10 @@
 
 This paper creates four different election forecasting visualizations and then analyzes the effects each visualization can have on people's emotions, trust in forecasts, and political participation intention. Here are each of the visualizations they created: 
 
-![alt text](https://raw.githubusercontent.com/aria-yan/cs573-reflections/main/week1/A.png) ![alt text](https://raw.githubusercontent.com/aria-yan/cs573-reflections/main/week1/B.png) ![alt text](https://raw.githubusercontent.com/aria-yan/cs573-reflections/main/week1/C.png)![alt text](https://raw.githubusercontent.com/aria-yan/cs573-reflections/main/week1/D.png)
+<img src="https://raw.githubusercontent.com/aria-yan/cs573-reflections/main/week1/A.png" alt="drawing" width="300"/>
+<img src="https://raw.githubusercontent.com/aria-yan/cs573-reflections/main/week1/B.png" alt="drawing" width="300"/>
+<img src="https://raw.githubusercontent.com/aria-yan/cs573-reflections/main/week1/C.png" alt="drawing" width="300"/>
+<img src="https://raw.githubusercontent.com/aria-yan/cs573-reflections/main/week1/D.png" alt="drawing" width="300"/>
 
 Here are the results of the study:
 

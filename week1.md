@@ -4,17 +4,7 @@
 
 This paper creates four different election forecasting visualizations and then analyzes the effects each visualization can have on people's emotions, trust in forecasts, and political participation intention. Here are each of the visualizations they created: 
 
-## A. Single Quantile Dotplot
-![alt text](https://raw.githubusercontent.com/aria-yan/cs573-reflections/main/week1/A.png)
-
-## B. Dual Quantile Dotplots
-![alt text](https://raw.githubusercontent.com/aria-yan/cs573-reflections/main/week1/B.png)
-
-## C. Dual Histogram Intervals
-![alt text](https://raw.githubusercontent.com/aria-yan/cs573-reflections/main/week1/C.png)
-
-## D. Plinko Quantile Dotplot
-![alt text](https://raw.githubusercontent.com/aria-yan/cs573-reflections/main/week1/D.png)
+![alt text](https://raw.githubusercontent.com/aria-yan/cs573-reflections/main/week1/A.png) ![alt text](https://raw.githubusercontent.com/aria-yan/cs573-reflections/main/week1/B.png) ![alt text](https://raw.githubusercontent.com/aria-yan/cs573-reflections/main/week1/C.png)![alt text](https://raw.githubusercontent.com/aria-yan/cs573-reflections/main/week1/D.png)
 
 Here are the results of the study:
 

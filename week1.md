@@ -1,5 +1,6 @@
 Analytics and visualizations are great, but it is even better if it is available to the masses.
 Approximately seven months ago, I came across a sankey diagram that shows vote shifts in presidential elections in Turkey.
+
 ![image](https://github.com/OzgeAygul/CS573---Reflections/assets/77694285/0578a527-30e0-4f35-8332-2aca819438dc)
 
 For the general public, this visualization simplifies complex data (without oversimplifying), making it easier to understand the volume of votes transferred.

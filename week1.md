@@ -11,6 +11,8 @@ The diagram provides insights into voter behavior, such as party loyalty and the
 It also provides numerical data on votes for each party or candidate at the starting and ending points, which can be helpful in understanding the scale of each flow.
 I've seen this chart was used in post-election analysis discussions.
 It clearly shows unexpected patterns or anomalies, prompting further investigation.
+One interactive feature could be selecting a city, and observing shifts there.
+This would allow further analysis of campaigns that were run in that city, and compare with other cities to see which campaigns are most successful. 
 Let's see another visualization, aiming to show the same shift:
 
 ![image](https://github.com/OzgeAygul/CS573---Reflections/assets/77694285/7ae050b3-4e9b-4d2a-b280-4edcb159c521)

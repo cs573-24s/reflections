@@ -1,7 +1,9 @@
 # Week 1 Reflection
 ## Data Source
 "2023 MLB Predictions -- Boston Red Sox" from FiveThirtyEight
+
 https://projects.fivethirtyeight.com/2023-mlb-predictions/red-sox/
+
 Visualization created by [Jay Boice](https://fivethirtyeight.com/contributors/jay-boice/) and [Nate Silver](https://fivethirtyeight.com/contributors/nate-silver/)
 ## Reflection
 As a huge baseball fan, FiveThirtyEight's *who will win the World Series* visualization caught my attention. Although FiveThirtyEight is no longer publishing sports visualizations as of June 2023, I felt this mid-season prediction was actually a perfect chance to see just how accurate their prediction was. All teams are available to view, but for my analysis I focused on our hometown Boston Red Sox.

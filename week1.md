@@ -1,6 +1,6 @@
 # Week 1 Reflection
 
-## [Swaying the Public? Impacts of Election Forecast Visualizations on Emotion, Trust, and Intention in the 2022 U.S. Midterms](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10309864&tag=1)
+## [Swaying the Public? Impacts of Election Forecast Visualizations on Emotion, Trust, and Intention in the 2022 U.S. Midterms](https://doi.org/10.1109/TVCG.2023.3327356)
 
 This paper creates four different election forecasting visualizations and then analyzes the effects each visualization can have on people's emotions, trust in forecasts, and political participation intention. Here are each of the visualizations they created: 
 

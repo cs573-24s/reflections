@@ -9,3 +9,8 @@ The paper highlights the importance of considering the temporal dimension in gra
 To address the challenge of visualizing temporal property graphs in a user-friendly manner, the authors developed the TGV framework. TGV provides a platform for interacting with and visualizing temporal graphs. It offers features such as a slider bar for navigating across time and tools for pruning the initial graph to reduce complexity. Users can write T-GQL queries within an editor panel, and the query results are displayed graphically, allowing interactive navigation of the temporal graph.
 
 The framework contributes to the field of graph database visualization and opens up possibilities for temporal analysis and insights in various domains.
+
+
+# REFERENCES
+
+Orlando, D., Ormachea, J., Soliani, V. et al. TGV: A Visualization Tool for Temporal Property Graph Databases. Inf Syst Front (2023). https://doi.org/10.1007/s10796-023-10426-1

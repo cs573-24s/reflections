@@ -10,3 +10,5 @@ More generally, using heat maps like this one strategically can change the sport
 
 ## References:
 1. [Todd Whitehead on X: @CrumpledJumper](https://x.com/CrumpledJumper/status/1740251518840996135?s=20)
+2. [How to read heatmap](https://mouseflow.com/blog/how-to-interpret-a-heatmap/)
+3. [Kevin Durant's Stats](https://www.espn.com/nba/player/stats/_/id/3202/kevin-durant)

@@ -2,7 +2,7 @@
 
 # Decoding Kevin Durant's Performance with Heat Map Analytics
 
-[Kevin Durant box scorigami](https://pbs.twimg.com/media/GCadJNTaoAAJlyO?format=jpg&name=4096x4096)
+![Kevin Durant box scorigami](https://pbs.twimg.com/media/GCadJNTaoAAJlyO?format=jpg&name=4096x4096)
 
 Kevin Durant's game performance is shown on a heat map that cleverly uses color gradients to show how often games with different combos of points and assists happen. This method is not only nice to look at, but it's also very easy to understand so that people can immediately see trends and hubs of activity. The heat map breaks down complicated statistical data by putting Durant's points and assists into clear groups. This makes it easy to see where the player's skills lie, namely between 20 and 29 points and 1 to 5 assists. This knowledge is especially useful for coaches and analysts, who can use it to figure out Durant's most consistent performance range and maybe come up with ways to improve his game even more. The visualization also shows how versatile Durant is on the court, showing that his efforts are not limited to one type of scoring but include a wide range of it.
 

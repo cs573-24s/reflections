@@ -1,1 +1,5 @@
-Test PR
+[Vis project - WSJ Nasdaq Index](http://graphics.wsj.com/3d-nasdaq/)
+
+This is an interesting and innovative visualization project The Wall Street Journal posted in 2015. WSJ transformed a traditional line plot into an immersive 3D experience, allowing viewers to view and interact with the Nasdaq index using virtual reality tools. While using VR tools to view the plot, viewers may feel as if they are riding a roller coaster, experiencing the ups and downs corresponding to the movements of the Nasdaq index along the passing timeline. Covering the period from 1994 to 2015, the plot also captures several important market events. Recession periods are highlighted in RED. Some other events like "First Apple iPhones go on sale", "Lehman Brother bankruptcy", and "Twitter lists its share on NYSE" are shown on the side along with the time passes.
+
+Another key indicator that this vis displays is P/E ratio (Pricing/Earnings ratio), represented by the width of the path. A narrow path indicates higher share price relative to earnings. I found it quit difficult to capture this information when I first saw this plot. Also, it's easy to see that the width of path in 2000 is narrow if I "stand" at 1994 or 2015. But, for me, it's hard to notice how the P/E ratio progressively narrows over time. (probably due to the Size-distance Illusion?)

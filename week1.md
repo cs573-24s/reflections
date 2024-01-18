@@ -1,0 +1,7 @@
+URL: https://www.storytellingwithdata.com/blog
+Article: "#SWDchallenge: upskill with UpSets"
+
+The #SWDchallenge: upskill with UpSets, presented by Storytelling with Data (SWD), encourages the creation of a chart type known as the UpSet plot. The UpSet plot is a visualization tool that combines elements of bar charts, dot plots, and Venn diagrams, allowing for the representation of relationships among items in multiple related sets. It is useful for displaying complex intersections of categories, such as genres in movies.
+The challenge is designed to encourage participants to expand their visualization skills by working with this relatively uncommon chart type. This type of graph is an excellent example of a graph that can accurately communicate complex data relationships that might be cumbersome or impossible to represent with traditional charts like Venn or Euler diagrams.
+The challenge recognizes that creating an UpSet plot involves a learning curve, as this type of chart is not standard in many business software applications. So, it is also an opportunity for participants to upskill by learning to use new tools or software, with recommendations provided including R, Python, Tableau, and even hand-drawn methods.
+Challenges like these introduce practitioners to have a deeper understanding of how to communicate complex information effectively. Future iterations of this challenge could benefit from incorporating even more diverse data sets and visualization scenarios, and broadening the applicability of the skills being developed.

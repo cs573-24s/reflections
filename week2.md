@@ -1,4 +1,4 @@
-# Week 1 Visualization
+# Week 2 Visualization
 
 ## Visualization and Source
 

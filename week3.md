@@ -1,0 +1,17 @@
+Link: https://plotapi.com/explore/view/9539a716-556e-423f-bf75-de0ec8fab3f4
+
+This week I did my reflection on a visualization I found on r/dataisbeautiful. It shows the top 20 Olympic medal earning countries,
+and splits it up by gold, silver, and bronze. The vis caught my attention because it is colorful and fairly unique, I haven't seen
+too many charts that look like this. It gives the reader a sense of the order of the countries that have won the most medals, but does
+not provide any numbers. I think that this is a double-edged sword, as many numbers would clutter this chart significantly. However I think 
+that it would be interesting if when you hover over a country you could see the breakdown of the number of medals they've one in each category, so that
+you can get a sense of numerically what the chart is representing. As someone who doesn't know that much about the Olympics, I have no 
+context for how many medals even the United States has won that would help me put the order of the rest of the countries into perspective.
+Overall I don't feel like I learned that much from this visualization, aside from the order of the countries that have the most medals.
+I'm also unclear whether the ranking of countries that have won the most medals overall is the same as the rankings of countries that have
+won the most gold, silver, and bronze medals. Looking at the chart, the order doesn't change when you hover over the different medal types,
+however I would think it would be possible for a country that is, for example, ranked 10th for number of overall medals, but could be ranked 8th or 9th for 
+number of bronze, silver, or gold medals. Maybe the author felt like that information wouldn't be helpful, and it would just be more 
+confusing if the order changed depending on the view of the chart. I could see that being true, and would understand why they didn't take that into 
+account if that was the case. 
+

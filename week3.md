@@ -9,4 +9,4 @@ Joseph Priestley gained fame through two chronological charts. One of them is th
 In the second chronological chart, Priestley applied and expanded upon the techniques from the "Biographical Chart" to create the "New Chart of History." Similar to the first chart, it focuses on depicting major empires and civilizations that coexisted throughout history and their interconnections. Priestley innovatively introduced color, size, and creatively utilized the Y-axis. The result is a captivating visual narrative of history, rich with information. While this chart may appear dazzling at first glance, it embodies boundless creativity and stands as a pioneering work of innovation in its era.
 
 # REFERENCES
-Priestley, Joseph. "A New Chart of History." Wikipedia. https://en.wikipedia.org/wiki/A_New_Chart_of_History)https://en.wikipedia.org/wiki/A_New_Chart_of_History
+Priestley, Joseph. "A New Chart of History." Wikipedia. https://en.wikipedia.org/wiki/A_New_Chart_of_History

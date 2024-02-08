@@ -12,7 +12,7 @@ At first, the viz might be so dense and crowded with boxes and triangles, but th
 ![image](https://github.com/avivnur/reflections/assets/47585222/d814cf4d-ebf0-4a8c-8ed4-871140366874). 
 Since this was made on Tableau, the interactivity is quite enough if we hover over one of the countries to focus on. For example:![image](https://github.com/avivnur/reflections/assets/47585222/a5386a11-e134-41ac-a9ff-4f62cbca4132)
 
-The tooltip is helpful in displaying the overall data of a country here.
+The tooltip is helpful in displaying the overall data of a country here. The color choice is also quite friendly and readable enough to compare between countries. One thing that may be it can improve is to add zoom features if we click on the country.
 
 
 ## References

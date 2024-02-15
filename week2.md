@@ -1,4 +1,4 @@
-# Link ：[] (https://ourworldindata.org/owid-grapher)
+# Link ：(https://ourworldindata.org/owid-grapher)
 # topic：things about world
 # image：
 <img width="807" alt="image" src="https://github.com/QJXberry/reflections/assets/149975968/004cca72-e54e-4b22-809a-9ba98909cc8d">

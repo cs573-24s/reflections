@@ -7,8 +7,6 @@ At the heart of this visualization is the dynamic representation of wind as anim
 
 One of the standout features of the Windfinder map is its interactivity. Users can zoom in to view localized wind conditions or zoom out for a global perspective, making it an invaluable resource for planning outdoor activities or research purposes. Additionally, the map includes forecast data, offering predictions on future wind conditions that are essential for scheduling events or trips.
 
-Despite its wealth of information and user-friendly design, newcomers might initially find the map overwhelming due to the dense presentation of dynamic data. However, Windfinder addresses this by incorporating a legend and a simple tutorial on how to read the map, ensuring that even those new to wind sports or weather analysis can quickly become proficient in interpreting the data.
-
 In conclusion, Windfinder's global wind patterns visualization stands out for its ability to convey complex meteorological data in an accessible and engaging manner. Its design reflects a deep understanding of the needs of its primary audience, providing them with a powerful tool to safely enjoy their activities or conduct detailed weather analysis. The visualization exemplifies how data, when thoughtfully presented, can transform abstract numbers into actionable insights, fostering a deeper connection between users and the natural world.
 
 ### References

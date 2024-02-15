@@ -4,7 +4,7 @@ patterns across the United States. Motivated by the desire to gain insights into
 comprehensive visualization that forecasts anticipated snowfall across various states. The result is a captivating and informative
 representation, offering a nuanced perspective on the expected distribution of snowfall throughout the diverse geographical
 landscape of the United States. This visualization not only serves as a snapshot of current weather patterns but also 
-provides a visually engaging exploration of how different states are forecasted to be affected by this natural occurrence." 
+provides a visually engaging exploration of how different states are forecasted to be affected by this natural occurrence.
 
 
 https://www.nytimes.com/interactive/2024/upshot/snow-forecast-totals-lookup.html

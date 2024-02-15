@@ -11,7 +11,7 @@ Bar graphs: used to rank the test pass rates of black students in different scho
 
 Maps: used to label the locations of the five worst schools in Pinellas County, as well as to show the vocabulary of hip-hop music in different areas.
 
-Pie charts: used to show the racial makeup of students at different schools, as well as to show the percentage of words that are most characteristic of hip-hop music
+Pie charts: used to show the racial makeup of students at different schools, as well as to show the percentage of words that are most characteristic of hip-hop music.
 
 # REFERENCES
 

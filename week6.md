@@ -5,7 +5,7 @@
 Data From: https://www.washingtonpost.com/weather/2024/02/21/snow-drought-northeast-midatlantic-climate/
 
 Chart authored by Ian Livingston/Capital Weather Gang
-![Winter 2023-2024 Snowfall Compared to Average](https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SDTMZT46MRGR5BJI76BSTNM2GI.png&w=1200)
+![Winter 2023-2024 Snowfall Compared to Average](https://preview.redd.it/h7euq2igazjc1.jpeg?width=960&crop=smart&auto=webp&s=78441c10d5149259f47141322056f7270d598831)
 
 ## Reflection
 If there's two things that go together, it's New England and snow, so when I saw this heatmap on the relative snowfall this season I knew I had to check it out. And this chart pretty eloquently expresses my exact thoughts -- that we've seen a pretty distinct lack of snowfall so far this season. Let's dig deeper into why this visualization is so effective:

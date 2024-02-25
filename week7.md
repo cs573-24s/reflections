@@ -1,0 +1,8 @@
+This week, I looked at a silly but incredible visualization called Koala's to the max. 
+Here is a link to the visualization: http://www.koalastothemax.com.
+
+The interactive tool starts with one dot, which hovered over leads to the dots splitting into 4 dots, with different colors. This splitting continues until the dots, resembling pixels, create an image of a koala. Although, I do recognize that this is not a regular data visualization in the sense that it is not conveying any data, there was definitely data processing that had to go into this visualization to create it. I believe it also shows the power of d3 and the incredible visualizations you can create with this tool. The best part of this interactive visualization is that what you're supposed to do is not apparent, but as you start playing around with the circles the picture starts emerging.
+What makes it particularly engaging is its simplicity combined with its complexity. On one level, it's just a collection of circles. Yet, as we interact with it, it uncovers the image, showcasing the power of digital art and algorithms to create visually stunning experiences.
+
+I think through this visualization, we can learn to take unconvential methods towards visualizations. Keeping users engaged is a big part of visualizating anything. This visualization showcases the potential for visualization not only as a tool for data analysis but also as a form of interactive art and entertainment.
+Overall, "Koalas to the Max" is not only a fun visual but also an example of how technology can be used to create interactive art that can both educate and entertain.

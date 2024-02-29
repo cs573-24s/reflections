@@ -1,0 +1,14 @@
+Jack Lafond
+Week 6 Reflection
+CS 573
+===
+
+Link to Vis:
+---
+https://krisztinaszucs.com/blog/20220829_gif/index.html
+
+Reflection:
+---
+This data viz is a webpage exploring new ways of visualizaing sports games that features charts with animations for some global competitions over the past years. The visualization starts with the first new chart type for visualizing score based sports where there are two teams or two players going head to head. The desginer provides a legend for how to read the chart, and then shows various implemented charts, one for handball, some for ice hockey, and some for soccer. Each chart is animated and uses stacked triangles to visualuze the current score of the game, which is stacked as the game goes on. Halves, periods, or other breaks in the game are visualized by a larger space between triangles. She also adds another feature of the chart, that being when games end in ties and move to penalty shootouts. These are represented by triangles shooting out on either side of the graphic and are more transparent if the penalty is missed. The designer next shows a visualization for swimming. In this graphic, each row represents a swimmer, and their swims in the heat, semi-final, and final are encoded as moving circles. This chart allows a viewer to compare the swims of an individual over the course of their meet, as well as compare them to other swimmers. The final visualization attempts to encode tennis matches, however I do not know much about tennis so it was harder for me to comprehend this graphic.
+
+I found this web page incredibly cool. Exploring new visualization techniques is very interesting, and I also enjoy sports so I was drawn to this visual. I found the first visual very useful and would argue that it should start to be used by people and organizations. It reminded of football box scores. Often times there will be tabels showing the team scores are the end of each quarter for the full game, which helps to understand how a game flows, but still sacrifices some timed data, and can be hard to visualize in your head. Using this visual instead would help to return the time data to the visualization, and could clearly show how a team performed throughout the game. I also like that a side effect (or perhaps on purpose) of the stacking triangles is that as a team or players lead grows, the angle of the triangles gets steeper and steeper, suggesting an even harder up hill battle for the opposition. I also like how the animation is needed for the graphic to be useful. The final images of each graphic could be used and can provide tons of information on how the game went in a relatively compact space. My only critique is that I think using team or nation colors for the graphics when possible could have been useful for persuading the use of the graphic, as if an indivudual team or organization is looking at this, seeing their own colors could help them imagine them using it themselves.

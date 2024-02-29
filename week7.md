@@ -15,3 +15,4 @@ They had families, daily routines, and dreams—just like us. And, they all went
 To summarize, this news could only consist of statistics, stories and photos of rubbles. 
 Instead, they created this visual essay to make a difference.
 
+Source: https://www.nytimes.com/interactive/2023/03/22/world/middleeast/turkey-earthquake-antakya.html?unlocked_article_code=1.H00.lL_W._-KhynCm5SLC

@@ -12,15 +12,21 @@
 
 Features:
     Regional Path: The map clearly visualizes the path of totality (umbra) and areas of partial visibility (penumbra).
+
     Reference Map: A small global map gives context to the overall eclipse visibility.
+
     Eclipse Circumstances: Provides eclipse details specific to your chosen location.
+
     Sunrise/Sunset Data: Shows where the eclipse occurs at sunrise/sunset, aiding in viewing decisions.
+
     Weather Emphasis: Stresses the importance of clear skies for optimal viewing.
+
     User-Friendly Interface: The map is intuitive, making it easy for users of all levels to navigate.
+
     Key Information: Eclipse duration and points of special interest are clearly marked.
+
     Customization: The ability to plot points and get coordinates enhances trip planning.
-
-
+    
 
 **References:**
 

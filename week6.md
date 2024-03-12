@@ -1,13 +1,13 @@
-I've found this amazing [Visualization]Link(https://www.visualcapitalist.com/the-50-most-visited-websites-in-the-world/)
+I've found this amazing [Visualization]Link( https://www.storytellingwithdata.com/blog)
 
-1. The visualization is about the The 50 Most Visited Websites in the World.
-2. Websites are divided into following cateogries :
+1. The #SWDchallenge by Storytelling with Data promotes the creation of UpSet plots.
+2. UpSet plots combine features of bar charts, dot plots, and Venn diagrams.
+3. They visualize relationships among items in multiple sets, like movie genres.
+4. Participants in the challenge enhance their visualization skills by working with this unique chart type.
+5. UpSet plots effectively communicate complex data relationships.
+6. Learning to create UpSet plots involves a learning curve due to their rarity in business software.
+7. Participants can upskill by learning new tools like R, Python, Tableau, or hand-drawn methods.
+8. Such challenges deepen practitioners' understanding of effectively communicating complex information.
+9. Future challenges could incorporate more diverse datasets and visualization scenarios.
+10. The challenge aims to broaden the applicability of the skills being developed.
 
-3. Larger bubbles denote higher-ranked websites, providing an immediate visual hierarchy of internet popularity.
-4. The color scheme categorize websites by type or industry, aiding in quick identification and analysis.
-5. Parents company are interlinked with each other through the lines.
-7. The chart distinguishes between global and regional websites, reflecting internet usage patterns across different regions.
-8. Notable newcomers or emerging trends may be observed among the top 50, indicating shifts in online behavior or preferences.
-9. User engagement levels might be inferred from the positioning of social media platforms or interactive websites.
-10. Historical comparisons can unveil trends in website popularity, offering insights into the evolving digital landscape.
-111. For businesses and marketers, understanding the top-ranked websites is crucial for developing effective online strategies and targeting the most visited platforms for advertising and engagement.

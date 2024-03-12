@@ -1,0 +1,5 @@
+Link to visualization: https://selfiecity.net/
+
+Reflection: Selfiecity is a data-driven project that tries to research the selfie. By meticulously analyzing a vast collection of Instagram images, Selfiecity employs a blend of theoretical, artistic, and quantitative methods to explore various aspects of self-portraits across five global cities. Selfiecity investigates the demographics of people taking selfies, shedding light on who captures these self-portraits, and this project examines factors such as age, gender, and cultural context.
+
+Imageplots assemble thousands of photos to reveal intriguing patterns. Selfiecity determines the facial expressions prevalent in each city. The self exploratory tool allows users to experiment with the collected data. The project compiles a unique dataset by analyzing tens of thousands of images from each city. Datasets involve both automatic image analysis and human judgment. Automatic face analysis algorithms estimate eye, nose, and mouth positions, as well as emotional expressions. The project team manually examined the resulting set of selfie images.

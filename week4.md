@@ -1,0 +1,5 @@
+Link to visualization: https://briansolis.com/2023/12/introducing-the-genai-prism-infographic-a-framework-for-colalborating-with-generative-ai/?
+
+Reflection:This article introduces the GenAI Prism, which is a framework for colaborating with generative AI. In this article, it designed as a reference guide to improve creation of human and the collabaration of AI. This graphic shows a visual representation of this concept and separate AI to different types, categorizing various generative AI applications and tools. It is structured in concentric circles, with "Vision" at center, showing that the vision is very important in AI collabaration. Surrounding it are layers labeled "Risk" and "Reward," "Trial," "Learning," "Experimentation," and "Communication," showing the communication is also important and the iterative and experimental nature of AI work.
+
+The outer sections labeled "Communicate," "Innovate," "Solve," "Complement," "Automate," "Transform," "Livable," "Healthy," and "Grow" shows the benefits of using AI tools. Each section has logos of different companies and function or benefit. This means the range of AI's roles in empowering humans.

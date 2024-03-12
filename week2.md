@@ -1,0 +1,4 @@
+Link to visualization: https://eagereyes.org/blog/2024/nytimes-web-flash-player
+
+Reflection: This article has mentioned Adobe Flash was widely used in producing interactive graphics in the early 2000s, which means at that time Flash was  innovative and quite prevalent. However, it was no longer being supported in 2017 and it obsolesecnt gradually. A problem of "bitrot" on the web, these graphic works was inaccessible. The classic flash news graphics such as "A Year Of Heavy Losses"(2008),"Turning A Corner? "(2009),"The Jobless Rate for People Like You "(2009),"Why Is Her Paycheck Smaller?  "(2010). So The New York Times in order to access the past graphic works adding a web flash player to their website. Althogh this makes some flash works accessible, the new technologies are not perfect. Other news organizations like Washington Post will also preserve these digital news.
+-

@@ -1,6 +1,6 @@
 .
 
-1. Check out this compelling I've found the amaing [Visualization][link](https://flowingdata.com/2021/06/08/seeing-how-much-we-ate-over-the-years/) 
+1. Check out this compelling I've found the amaing [Visualization](https://flowingdata.com/2021/06/08/seeing-how-much-we-ate-over-the-years/) 
    on changing American eating habits from 1970 to 2019.
 
 2. The visualization, hosted on Flowing Data, utilizes USDA data to illustrate shifts in food consumption over time.
